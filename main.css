@@ -36,13 +36,13 @@ body {
 .words p {
   margin: 20px 20px 50px 20px;
 }
-.typeOfAnimal-dog {
+.typeOfAnimal-dog, #button-1{
   background-color: khaki;
 }
-.typeOfAnimal-cat {
+.typeOfAnimal-cat, #button-2{
   background-color: lightcoral;
 }
-.typeOfAnimal-dino {
+.typeOfAnimal-dino, #button-3{
   background-color: lightgreen;
 }
 .pushToBottom {
@@ -61,5 +61,17 @@ button {
   margin: 20px;
 }
 button:hover {
-  background-color: greenyellow;
+  background-color: rgb(204, 16, 211);
+}
+#button-1:hover{
+    background-color: rgb(204, 16, 211);
+
+}
+#button-2:hover{
+    background-color: rgb(204, 16, 211);
+
+}
+#button-3:hover{
+    background-color: rgb(204, 16, 211);
+
 }
