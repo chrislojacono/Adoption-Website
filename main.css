@@ -1,0 +1,57 @@
+* {
+  text-align: center;
+  margin:0;
+  padding:0;
+}
+body{
+    background-color: sandybrown;
+}
+.animal-cards {
+  display: flex;
+  flex-flow: row wrap;
+  position: relative;
+}
+.card {
+  background-color: snow;
+  position: relative;
+  border: solid 2px black;
+  width: 20%;
+  margin: 10px;
+  height: 500px;
+
+}
+.image {
+  width: 100%;
+  height: 50%;
+  margin: 0;
+  padding: 0;
+  border: 1px gold solid;
+}
+.name h2{
+    width: 100%;
+    margin: 0;
+}
+
+.typeOfAnimal-dog{
+    background-color: khaki;
+}
+.typeOfAnimal-cat{
+    background-color: lightcoral;
+}
+.typeOfAnimal-dino{
+    background-color: lightgreen;
+}
+.pushToBottom{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+button{
+    width: 60px;
+    height: 30px;
+    background-color: gold;
+    margin: 20px;
+}
+button:hover{
+    background-color: greenyellow;
+}
