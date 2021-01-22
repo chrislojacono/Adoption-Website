@@ -1,7 +1,7 @@
 # Adoption-Website
 
 ### Motivation
-This was a project to test our understand of using javascript functions to print data to the DOM. W completed in a group of four, but all writing our own code. We also figured out how to use Event Listeners and to sort the adoption cards by specific categories
+This was a project to test our understand of using javascript functions to print data to the DOM. We completed in a group of four, but all writing our own code. We also figured out how to use Event Listeners and to sort the adoption cards by specific categories
 
 ### Build Status
 complete.
